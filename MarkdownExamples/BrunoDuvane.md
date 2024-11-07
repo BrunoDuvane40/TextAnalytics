@@ -72,10 +72,11 @@ A sample to do list:
 - [ ] come back; 
 
 
+Adding a videooooooo ehehehehe 
 
+Click the image below to watch the video: 
 
-
-
+[![some image](andy.png)](https://youtu.be/dBWFVAoNuZU?si=Bp7zX0uF34ktGFY8)
 
 
 
