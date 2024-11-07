@@ -1,3 +1,11 @@
+1. Are they counted;
+
+     1. With identation
+     2. Life's good you know what I mean
+
+3. Center 
+
+
 # Whats a document without a header 
 
 ## Sometimes we want them smaller tho
@@ -21,3 +29,44 @@ Martin Luther said
 Can you imagine, being **_Italic Bold_**
 
 ~~Scratch that though~~
+
+Now lets list thing, lists are good: 
+
+- This is the first element
+
+- This
+
+
+
+
+
+
+
+
+A sample to do list: 
+
+- [ ] go out; 
+
+- [ ] come back; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
