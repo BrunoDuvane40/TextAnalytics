@@ -1,3 +1,31 @@
+
+Adding codee yooo
+
+```typescript
+
+class Cat { 
+     name: string; 
+     #vaccinated: boolean; 
+
+     constructor(name: string, vaccinated: boolean) { 
+          this.name = name; 
+          this.#vaccinated = vaccinated; 
+     } 
+
+ 
+ 
+
+     needsVaccination(): boolean { 
+          return !this.#vaccinated; 
+     } 
+} 
+```
+
+
+
+
+
+
 # Working with Tables
 
 Android | IOs | Windows
