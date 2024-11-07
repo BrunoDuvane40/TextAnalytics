@@ -16,6 +16,7 @@ Andy | iozy |a win is a win
 ahhhhhhhhhhhhhhhbhebhiw | ifweifwejfkjladmfojwqd | ofnojfewojfklsdjonqmkld
 [Google](https://google.com) | [Google](https://google.com) |[Google](https://google.com)
 ![image](https://github.com/user-attachments/assets/fbb08914-9934-4590-b52c-3bc838c2c635) | ![image](https://github.com/user-attachments/assets/238b49c0-91c7-4c15-b86c-5af214559cf8) | ![image](https://github.com/user-attachments/assets/dda285d1-079b-4087-8365-a72be90fae2d)
+![](andy.png) | ![](iso.jpeg) 
 
 
 
